@@ -81,21 +81,21 @@ const cases = [
     },
     {
         id: 'knife',
-        name: 'Ножевой кейс',
+        name: 'Бог Рэпа',
         price: 50.00,
         image: '🔪',
         items: caseItems.knife
     },
     {
         id: 'budget',
-        name: 'Бюджетный кейс',
+        name: 'Лейм',
         price: 5.00,
         image: '🎁',
         items: caseItems.budget
     },
     {
         id: 'classic2',
-        name: 'Военный кейс',
+        name: 'Рэперок',
         price: 15.00,
         image: '🎖️',
         items: caseItems.classic
@@ -378,4 +378,5 @@ document.addEventListener('keydown', (e) => {
         closeModal();
     }
 });
+
 
